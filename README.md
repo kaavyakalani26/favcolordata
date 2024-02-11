@@ -15,7 +15,7 @@ if (!requireNamespace("devtools", quietly = TRUE)) {
 }
 
 # Install favcolordata
-devtools::install_github("kaavyakalani/favcolordata")
+devtools::install_github("kaavyakalani26/favcolordata")
 ```
 
 ## Usage
