@@ -25,11 +25,8 @@ After installation, you can load the package and access the dataset:
 ```{r}
 library(favcolordata)
 
-# Load the color_data dataset
-data(color_data)
-
-# View the dataset
-head(color_data)
+# View the color_data dataset
+color_data
 ```
 
 ## Dataset Details
